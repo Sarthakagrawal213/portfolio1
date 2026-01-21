@@ -14,7 +14,7 @@ const Macwindow = ({children}) => {
             <div id="naw">
                 <Link to="/">
                 <div id="red">
-                  <img src="/close.png" alt="" />
+                  <img src="/portfolio1/close.png" alt="" />
  
                 </div>
                 </Link>
